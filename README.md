@@ -1,4 +1,4 @@
-# router
+# Vue JS
 
 ## Project setup
 ```
